@@ -1,0 +1,9 @@
+body{
+    margin:0;
+    font-size:17px;
+}
+
+#showcase{
+    background-image: url('./images.jpg');
+    height:800px;
+}
